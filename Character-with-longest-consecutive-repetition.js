@@ -35,3 +35,5 @@ function longestRepetition(s) {
     return acc;
   }, ['', 0]);
 }
+
+// or
