@@ -10,3 +10,6 @@ same l return the first in order of appearance.
 For empty string return:
 ["", 0]
 */
+
+
+// Solution
